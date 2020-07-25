@@ -9,3 +9,6 @@ geekbang/toyreact
 ### 第二节 生命周期
 - 1.setState 的实现
 - 2.onclick 事件的绑定
+### 第三节 虚拟DOM 实现
+- 1.实DOM与 虚拟DOM 区别
+- 2.对于大项目来说虚拟DOM 实现局部刷新,从性能上得到很大的提升
